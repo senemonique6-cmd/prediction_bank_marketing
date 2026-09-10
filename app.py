@@ -366,4 +366,4 @@ with tab2:
             st.error(
                 f"Une erreur est survenue : {e}"
             )
-```
+
